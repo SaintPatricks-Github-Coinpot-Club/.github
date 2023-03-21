@@ -12,7 +12,7 @@ The open source community is the 💗 heart of GitHub and fundamental to how we 
 - Open source projects on GitHub received a stunning **218 million** contributions 🚀 in the last year alone
 - **Every minute** a developer creates a new release 🏄 for a public project on GitHub
 
-Now that we are talking about the important things ☝️, are you contributing to open source? Yes? Okay, you rock! 🪨 If not, we can help you get started! Open source software is made by people just like you. Learn more about [how to contribute](https://opensource.guide/).
+Now that we are talking about the important things ☝️, are you contributing to open source? Yes? Okay, you rock! 🎸 If not, we can help you get started! Open source software is made by people just like you. Learn more about [how to contribute](https://opensource.guide/).
 
 ### 🦦 Contributing to the ecosystem
 
@@ -31,7 +31,7 @@ See what's next on our [public roadmap](https://github.com/github/roadmap) ✨ a
 	<summary>"Tell me more, I can't get enough!"</summary>
 	<br>
 	<ul>
-	<li>GitHub is built using mighty 🔨 open source technologies like <a href="https://github.com/rails">Ruby on Rails</a>, <a href="https://github.com/golang">Go</a>, <a href="https://github.com/primer/">Primer</a>, <a href="https://github.com/reactjs">React</a> and <a href="https://github.com/apache/kafka">Kafka</a> among others.</li>
+	<li>GitHub is built using mighty 🔨 open source technologies like <a href="https://github.com/rails">Ruby on Rails</a>, <a href="https://github.com/golang">Go</a>, <a href="https://github.com/primer">Primer</a>, <a href="https://github.com/reactjs">React</a> and <a href="https://github.com/apache/kafka">Kafka</a> among others.</li>
 		<li>The three open source projects GitHub members have most contributed 👩‍💻 to are:
 			<ul>
 				<li><a href="https://github.com/microsoft/vscode">Visual Studio Code</a></li>
